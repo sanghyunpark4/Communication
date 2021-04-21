@@ -1,6 +1,5 @@
 #CONVERGENCE THROUGH INFERENCE VER 6.0
 #Author: Phanish Puranam (phanish.puranam@insead.edu)
-#with probability q of joint reference after failure.
 
 #Importing modules
 #from IPython import get_ipython
